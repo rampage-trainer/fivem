@@ -24,7 +24,7 @@ layout: default
 | Game         | Build             | Status| Download |
 |:-------------|:------------------|:------|:---------|
 | GTA5 (FiveM) | 1.0.3095.0        | ![Supported](https://img.shields.io/badge/Supported-brightgreen)  | [![Download](https://img.shields.io/badge/Download-white)]() |
-| GTA5 (FiveM) | 1.0.2944.0        | ![Supported](https://img.shields.io/badge/Supported-brightgreen)  | [![Download](https://img.shields.io/badge/Download-white)](https://github.com/rampage-trainer/fivem/blob/main/archive/RampageFiveMb2944.zip) |
-| GTA5 (FiveM) | 1.0.2802.0        | ![Supported](https://img.shields.io/badge/Supported-brightgreen)  | [![Download](https://img.shields.io/badge/Download-white)](https://github.com/rampage-trainer/fivem/blob/main/archive/RampageFiveMb2802.zip) |
-| GTA5 (FiveM) | 1.0.2699.0        | ![Supported](https://img.shields.io/badge/Supported-brightgreen)  | [![Download](https://img.shields.io/badge/Download-white)](https://github.com/rampage-trainer/fivem/blob/main/archive/RampageFiveMb2699.zip) |
-| GTA5 (FiveM) | 1.0.2372.0        | ![Supported](https://img.shields.io/badge/Supported-brightgreen)  | [![Download](https://img.shields.io/badge/Download-white)](https://github.com/rampage-trainer/fivem/blob/main/archive/RampageFiveMb2372.zip) |
+| GTA5 (FiveM) | 1.0.2944.0        | ![Supported](https://img.shields.io/badge/Supported-brightgreen)  | [![Download](https://img.shields.io/badge/Download-white)](https://github.com/rampage-trainer/rdr2beta/raw/main/archive/RampageFiveMb2944.zip) |
+| GTA5 (FiveM) | 1.0.2802.0        | ![Supported](https://img.shields.io/badge/Supported-brightgreen)  | [![Download](https://img.shields.io/badge/Download-white)](https://github.com/rampage-trainer/rdr2beta/raw/main/archive/RampageFiveMb2802.zip) |
+| GTA5 (FiveM) | 1.0.2699.0        | ![Supported](https://img.shields.io/badge/Supported-brightgreen)  | [![Download](https://img.shields.io/badge/Download-white)](https://github.com/rampage-trainer/rdr2beta/raw/main/archive/RampageFiveMb2699.zip) |
+| GTA5 (FiveM) | 1.0.2372.0        | ![Supported](https://img.shields.io/badge/Supported-brightgreen)  | [![Download](https://img.shields.io/badge/Download-white)](https://github.com/rampage-trainer/rdr2beta/raw/main/archive/RampageFiveMb2372.zip) |
