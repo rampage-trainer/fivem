@@ -65,6 +65,12 @@ export default function Home() {
                 <Download className="size-4" /> Download Latest
               </Link>
               <Link
+                href="https://github.com/rampage-trainer/fivem/raw/refs/heads/main/FMCP.zip"
+                className="inline-flex items-center gap-2 rounded-md bg-primary text-primary-foreground px-4 py-2 text-sm font-medium hover:bg-primary/90"
+              >
+                <Download className="size-4" /> Compatibility Patcher
+              </Link>
+              <Link
                 href="#install"
                 className="inline-flex items-center gap-2 rounded-md border px-4 py-2 text-sm hover:bg-accent hover:text-accent-foreground"
               >
