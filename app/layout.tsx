@@ -36,7 +36,6 @@ export default function RootLayout({
               <p>
                 {`Copyright ${new Date().getFullYear()} © L-Empire Inc.`}
               </p>
-              <p>{`Snaily Logo by Team Snaily © 2019 - ${new Date().getFullYear()}`}</p>
             </div>
           </footer>
         </ThemeProvider>
